@@ -576,12 +576,6 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team
-
-Built for [Hackathon Name] by passionate builders who believe AI and blockchain can solve the trust problem in online work.
-
----
-
 ## 📧 Contact
 
 - Demo: http://localhost:3000
